@@ -43,7 +43,7 @@
         }
 
         .menu-wrapper {
-            height: 44%;
+            height: 54%;
             width: 60%;
             display:flex;
             padding:54px 200px;
@@ -111,8 +111,24 @@
 
             <div class='option'>
                 <div class='dash'></div>
-                <a href='/teste.php'>teste</a>
+                <a href='/calc.php'>Calculadora</a>
             </div>
+
+            <div class='option'>
+                <div class='dash'></div>
+                <a href='/jogoVelha.php'>Jogo da velha</a>
+            </div>
+
+
+            <div class='option'> 
+                <div class='dash'></div>
+                <a target="_blank" href='https://woocommerce.com/'>WooCommerce</a>
+            </div>
+            <div class='option'>
+                <div class='dash'></div>
+                <a target="_blank" href='https://br.wordpress.com/'>Wordpress</a>
+            </div>
+           
         </div>
     </div>
 </body>

@@ -50,7 +50,7 @@
         }
 
         .menu-wrapper {
-            height: 44%;
+            height: 54%;
             width: 60%;
             display:flex;
             padding:54px 200px;
@@ -73,7 +73,7 @@
     <body>
         <div class='main-wrapper'>
             <a href='/index.php' class='voltar'>Voltar</a>
-            <span class='span-title'>Comentários em PHP</span>
+            <span class='span-title'>Case sensitive</span>
             <div class='menu-wrapper shadow-effect'>
 
                 <?php

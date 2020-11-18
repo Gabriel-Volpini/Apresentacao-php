@@ -97,7 +97,7 @@
     <body>
         <div class='main-wrapper'>
             <a href='/index.php' class='voltar'>Voltar</a>
-            <span class='span-title'>Formulario simples</span>
+            <span class='span-title'>Manipulação de html</span>
             <div class='menu-wrapper shadow-effect'>
 
                 <?php

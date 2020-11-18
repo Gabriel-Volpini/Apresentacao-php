@@ -50,7 +50,7 @@
         }
 
         .menu-wrapper {
-            height: 44%;
+            height: 54%;
             width: 60%;
             display:flex;
             padding:54px 200px;
